@@ -12,15 +12,15 @@ body{
     align-items: center;
     font-family: sans-serif;
     border-radius: 18px;
-    background: #e0e0e0;
-    box-shadow:  35px 35px 70px #bababa,
-             -35px -35px 70px #ffffff;
 }
 .box{
     width: 50vw;
-    /* height: 36vh; */
     border-radius: 10px;
     display: flex;
+    border-radius: 18px;
+    background: #e0e0e0;
+    box-shadow:  35px 35px 70px #bababa,
+             -35px -35px 70px #ffffff;
 }
 .ch-1{
     width: 40%;
