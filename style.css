@@ -18,7 +18,6 @@ body{
     border-radius: 10px;
     display: flex;
     border-radius: 18px;
-    background: #e0e0e0;
     box-shadow:  35px 35px 70px #bababa,
              -35px -35px 70px #ffffff;
 }
